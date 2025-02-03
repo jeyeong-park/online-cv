@@ -17,7 +17,7 @@ sidebar:
   phone: 010 4050 7949
   timezone:  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: csdl.postech.ac.kr# Include the full website URL, including "http://" or "https://".
+  website: http://csdl.postech.ac.kr #Include the full website URL, including "http://" or "https://".
   linkedin: 
   xing: 
   github: 
